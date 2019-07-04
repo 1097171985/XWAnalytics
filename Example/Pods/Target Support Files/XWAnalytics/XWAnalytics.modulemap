@@ -1,0 +1,6 @@
+framework module XWAnalytics {
+  umbrella header "XWAnalytics-umbrella.h"
+
+  export *
+  module * { export * }
+}

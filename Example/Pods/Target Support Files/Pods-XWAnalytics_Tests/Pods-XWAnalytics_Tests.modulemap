@@ -1,0 +1,6 @@
+framework module Pods_XWAnalytics_Tests {
+  umbrella header "Pods-XWAnalytics_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,15 @@
+source 'https://github.com/CocoaPods/Specs.git'
+source 'http://gitlab.51geshui.com:10080/XWModule/XWPodSpecs.git'
+
+
+platform :ios, '9.0'
+
+target 'XWAnalytics_Example' do
+  pod 'XWAnalytics', :path => '../'
+
+  target 'XWAnalytics_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

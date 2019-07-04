@@ -1,0 +1,28 @@
+{
+  "name": "XWAnalytics",
+  "version": "0.1.0",
+  "summary": "A short description of XWAnalytics.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "http://gitlab.51geshui.com:10080/XWModule/XWAnalytics",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "1097171985": "10971717985@qq.com"
+  },
+  "source": {
+    "git": "http://gitlab.51geshui.com:10080/XWModule/XWAnalytics.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "XWAnalytics/Classes/**/*",
+  "public_header_files": "Pod/Classes/**/*.h",
+  "dependencies": {
+    "XWFMDB": [
+
+    ]
+  }
+}
